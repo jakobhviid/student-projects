@@ -6,9 +6,9 @@ The purpose of this repo is to document different directions within student proj
 
 ## Structure
 
-For students, please look into the .md files located in the projects folder.
+For students, please look into the .md files located in the projects [folder](./projects/).
 
-For maintainers, please put the projects descriptions into the Projects folder, and divide the images into the Images folder. Thanks.
+For maintainers, please put the projects descriptions into the [Projects](./projects/) folder, and divide the images into the [images](./images/) folder. Thanks.
 
 ## Maintainers
 
